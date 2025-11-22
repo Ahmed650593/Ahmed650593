@@ -23,21 +23,11 @@ class AhmedAdel {
   List<String> skills = [
     "Flutter UI/UX",
     "Dart Animations",
-    "Python, Java, C++",
     "GitHub & Copilot",
     "Arabic Content Creation"
     "Simplify Code"
   ];
 }
-```
-## 🔥 Highlights
-
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
-
 ---
 
 ## 🧰 Tech Toolbox
