@@ -33,5 +33,5 @@ class AhmedMashtah {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,vscode,github,firebase" />
 </p>
