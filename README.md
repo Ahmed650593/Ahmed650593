@@ -19,6 +19,8 @@ class AhmedMashtah {
   String role = "Flutter & Firebase Developer";
   String language = "Arabic";
   String brand = "Learn Simply | اتعلم ببساطة";
+  String flutterLevel = "متقدم في Flutter";
+  
   List<String> skills = [
     "Flutter UI/UX",
     "Firebase Auth & Firestore",
