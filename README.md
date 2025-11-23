@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Ahmed Mashtah 👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Firebase Specialist 🔥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+<h3 align="center">Flutter Developer 🧠 | Firebase Specialist 🔥 |  </h3>
 
 <p align="center">
   <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Mashtah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,14 +19,13 @@ dart
 class AhmedMashtah {
   String role = "Flutter & Firebase Developer";
   String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
-  String flutterLevel = "متقدم في Flutter";
+  String Level = "Advanced Flutter & Dart Developer";
   
   List<String> skills = [
     "Flutter UI/UX",
-    "Firebase Auth & Firestore",
+    "Firebase Auth & Firestore & Hosting",
     "Dart Animations",
-    "Python, Java, C++",
+    "Python, Java,",
     "GitHub & Copilot",
     "Simplifying Code"
   ];
