@@ -14,7 +14,8 @@
 
 ## 🚀 About Me
 
-```dart
+```
+dart
 class AhmedMashtah {
   String role = "Flutter & Firebase Developer";
   String language = "Arabic";
@@ -28,3 +29,9 @@ class AhmedMashtah {
     "Simplifying Code"
   ];
 }
+```
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+</p>
